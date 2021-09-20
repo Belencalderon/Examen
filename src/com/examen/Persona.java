@@ -29,7 +29,7 @@ public class Persona extends SerHumano {
 
     }
     public void imprimirNombre(){
-        System.out.println("Nombre de la Persona es: "+nombre+" "+apellido);
+        System.out.println("Nombre de la Persona es: "+apellido+" "+nombre);
     }
 
     public void dormir(){
