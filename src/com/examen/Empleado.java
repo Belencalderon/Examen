@@ -17,7 +17,7 @@ public class Empleado extends Persona implements Trabajo{
      }
 
     public void dormir(){
-        System.out.println("¿Qué es eso?");
+        System.out.println("Dormir.. ¿Qué es eso?");
     }
 
 }
